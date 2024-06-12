@@ -10,8 +10,13 @@ Error Handling: Gracefully handles errors and provides meaningful responses.
 
 Technologies Used:
 Node.js: JavaScript runtime for server-side programming.
+
 Express.js: Web framework for Node.js.
+
 MongoDB: NoSQL database for storing consumer and order data.
+
 Mongoose: ODM (Object Data Modeling) library for MongoDB and Node.js.
+
 dotenv: Module to load environment variables from a .env file.
+
 Visual Studio Code: Code editor for development.
